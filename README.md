@@ -1,2 +1,2 @@
 # Primes
-Calculate prime numbers
+Generate prime numbers using the Sieve of Eratosthenes.
